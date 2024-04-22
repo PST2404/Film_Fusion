@@ -6,7 +6,7 @@ import requests
 img1 = """
 <style>
         [data-testid="stAppViewContainer"] {
-        background-image: url("./background.jpg");
+        background-image: url("background.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
